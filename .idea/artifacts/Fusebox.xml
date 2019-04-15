@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fusebox">
+    <output-path>$USER_HOME$/Downloads/servers</output-path>
+    <root id="archive" name="Fusebox.jar">
+      <element id="module-output" name="Fusebox" />
+    </root>
+  </artifact>
+</component>

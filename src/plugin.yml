@@ -1,0 +1,10 @@
+name: Fusebox
+description: A resource library.
+version: SNAPSHOT-0.1
+author: Blockcade Studio
+main: us.blockcade.fusebox.Fusebox
+
+commands:
+  hologram:
+    description: Base command for Hologram module.
+    aliases: [holo, holos, holograms]
